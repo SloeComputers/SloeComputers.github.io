@@ -3,6 +3,7 @@
 In 1972 the Roland Corporation was founded by engineer Ikutaro Kakehashi in Osaka, Japan.
 
 ##  Early synths
+
 |Model|Year|Type|Synthesis|LFO|VCO|VCF|ENV|MIDI|
 |---|---|---|---|---|---|---|---|---|
 |SH-1000|1973|Mono|Subtractive|1|1|LP|1|-|
@@ -22,6 +23,7 @@ In 1972 the Roland Corporation was founded by engineer Ikutaro Kakehashi in Osak
 |D50|1987|Poly 16|Sample+Subtractive|3PV|2|1|1|Y|
 
 ##  Early drum machines
+
 |Model|Year|Voices|Synthesis|MIDI|
 |---|---|---|---|---|
 |CR-78|1978|14|Analogue|-|
