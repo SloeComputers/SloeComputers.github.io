@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Roland"
 permalink: /picoSynth/Roland
+---
 
 # Roland
 
