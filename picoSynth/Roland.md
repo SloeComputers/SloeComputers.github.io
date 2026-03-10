@@ -1,3 +1,7 @@
+layout: page
+title: "Roland"
+permalink: /picoSynth/Roland
+
 # Roland
 
 In 1972 the Roland Corporation was founded by engineer Ikutaro Kakehashi in Osaka, Japan.
