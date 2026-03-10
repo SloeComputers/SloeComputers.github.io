@@ -1,5 +1,5 @@
 # picoSynth
 
 * Casio
-* [Roland](Roland)
+* [Roland](picoSynth/Roland)
 * Yamaha
