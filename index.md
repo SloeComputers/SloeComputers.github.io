@@ -10,3 +10,7 @@ Synthersizer projects...
 |pimple|Re-code of the Hybrid Music 500|picoX7|
 |picoX21H|Hybrid simulation of the Yamaha DX21|picoX21H|rp2040, rp2350, native|
 |picoChippy|VGM player|picoX21H|rp2040, rp2350, native|
+
+# !
+
++ [Platform](Platform/index.md)
