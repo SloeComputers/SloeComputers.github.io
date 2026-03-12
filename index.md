@@ -1,4 +1,4 @@
-# Sloe Computers
+# Synthesizer Projects
 
 Synthersizer projects...
 
@@ -11,6 +11,6 @@ Synthersizer projects...
 |[picoX21H](picoX21H)|Hybrid simulation of the Yamaha DX21|picoX21H|
 |[picoChippy](picoChippy)|VGM player|picoX21H|
 
-# !
+# Electronics Projects
 
 + [Platform](Platform)
