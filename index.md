@@ -20,6 +20,8 @@ Where possible the projects reuse the same hardware config which is implemented 
 
 # Games
 
-+ [Zif](Zif)
-+ [MineSweeper](MineSweeper)
-+ [Sternhalma](Sternhalma)
+|Project|Description|Status|
+|---|---|---|
+|[Zif](Zif)|A Z-code engine for interactive fiction games.| |
+|[MineSweeper](MineSweeper)|A game from the past as an example the Platform GUI API.||
+|[Sternhalma](Sternhalma)|Also known as Chinese Chequers| |
