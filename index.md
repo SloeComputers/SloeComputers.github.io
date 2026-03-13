@@ -15,11 +15,16 @@ Where possible the projects reuse the same hardware config which is implemented 
 
 # Electronics
 
-+ [picoPlot](picoPlot)
-+ [Platform](Platform)
+|Project|Description|Status|
+|---|---|---|
+|[blinky](Blinky)|"Hello, world" example|OK|
+|[picoPloT](picoPloT)|Temperature logger with rolling graph|OK|
+|[Platform](Platform)| |OK|
 
 # Games
 
-+ [Zif](Zif)
-+ [MineSweeper](MineSweeper)
-+ [Sternhalma](Sternhalma)
+|Project|Description|Status|
+|---|---|---|
+|[Zif](Zif)|A Z-code engine for interactive fiction games.| |
+|[MineSweeper](MineSweeper)|A game from the past as an example the Platform GUI API.||
+|[Sternhalma](Sternhalma)|Also known as Chinese Chequers| |
