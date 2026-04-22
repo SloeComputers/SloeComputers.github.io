@@ -2,7 +2,7 @@
 
 Synthesizers that build for the Raspberry Pi [Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) and [Pico2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with MIDI control and audi out via an I2S DAC.
 
-Where possible the projects reuse the same hardware config which is implemented by [Platform](https://github.com/SloeComputers/Platform)
+Where possible the projects re-use the same hardware config which is implemented by [PDK](https://github.com/SloeComputers/PDK)
 
 |Project|Description|Status|Hardware Config|
 |---|---|---|
@@ -19,12 +19,12 @@ Where possible the projects reuse the same hardware config which is implemented 
 |---|---|---|
 |[blinky](Blinky)|"Hello, world" example|OK|
 |[picoPloT](picoPloT)|Temperature logger with rolling graph|OK|
-|[Platform](Platform)| |OK|
+|[PDK](PDK)|Portable Development Kit|OK|
 
 # Games
 
 |Project|Description|Status|
 |---|---|---|
 |[Zif](Zif)|A Z-code engine for interactive fiction games.| |
-|[MineSweeper](MineSweeper)|A game from the past as an example the Platform GUI API.||
+|[MineSweeper](MineSweeper)|A game from the past as an example the PDK GUI API.||
 |[Sternhalma](Sternhalma)|Also known as Chinese Chequers| |
